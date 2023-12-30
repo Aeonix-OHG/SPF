@@ -8,3 +8,10 @@ The concept of NPF is to create a simple file in which are multiple multiple col
 ```
 ## Programm
 This programm is a simple concept for making a png to a .npf. It uses Image dependeci.
+
+### Installation
+You coulld just download the precompiled linux binary, download the project and compile it yourself or download the project and use the install.sh for linux(note: Rust must be installed for this)
+### Usage
+```bash
+npf-conv [input-file] [output-file]
+```
